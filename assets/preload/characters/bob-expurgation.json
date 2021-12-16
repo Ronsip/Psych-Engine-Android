@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				280,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				-180,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "singRIGHT"
+		},
+		{
+			"offsets": [
+				210,
+				-250
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				255,
+				71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "singUP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bob_expurgation",
+	"position": [
+		-150,
+		-40
+	],
+	"healthicon": "gloopy-ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		225,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
